@@ -1,0 +1,21 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+l
+<app/src/main/java/com/example/roomcronoapp/ui/theme/Theme.kt,9\a\9a1adfd0461be6b76606d2782bb73d817598e99b
+k
+;app/src/main/java/com/example/roomcronoapp/ui/theme/Type.kt,e\a\eadfb517cbea40e949a755cf42fcaf529e0fff05
+l
+<app/src/main/java/com/example/roomcronoapp/ui/theme/Color.kt,2\4\24e93cc8e58ebc3f7fc43efafb24729e8ca8cccd
+j
+:app/src/main/java/com/example/roomcronoapp/MainActivity.kt,c\9\c940ac63e58a0ff262622839fde157306bc11366
+p
+@app/src/main/java/com/example/roomcronoapp/components/Buttons.kt,1\c\1c7c94b38854f9894835878de21f721872e56b9e
+s
+Capp/src/main/java/com/example/roomcronoapp/navigation/NavManager.kt,a\6\a668775c639b37145671026259237995fc028772
+q
+Aapp/src/main/java/com/example/roomcronoapp/room/CronosDatabase.kt,7\0\703c5e2b462c6890175b5dc3e8b86a6c6b3e7fa5
+l
+<app/src/main/java/com/example/roomcronoapp/views/EditView.kt,0\8\0877cf3d29a1c7ac5408f8910ae529b11051f116
+t
+Dapp/src/main/java/com/example/roomcronoapp/room/CronosDatabaseDao.kt,b\1\b190b8514825428a294c57fdd528db90026d0b9c
